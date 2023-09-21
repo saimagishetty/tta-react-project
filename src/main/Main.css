@@ -1,0 +1,51 @@
+.child{
+    max-width: 1000px;
+    margin: auto;
+    width: 100%;
+    border: 1px black solid;
+}
+.c-f-r-1{
+    display: flex;
+    flex-direction: row;
+    height: 80px;
+}
+.c-f-r-2{
+    display: flex;
+    flex-direction: row;
+    height: 400px;
+}
+.c-f-r-3{
+    display: flex;
+    flex-direction: row;
+    height: 250px;
+}
+.center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center !important;
+}
+.child-1{
+    width: 30%;
+    border: 1px black solid;
+}
+.child-2{
+    width: 70%;
+    border: 1px black solid;
+}
+.child-3{
+    width: 50%;
+    border: 1px black solid;
+}
+.child-4{
+    width: 50%;
+    border-left: 1px black solid;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
+.child-5{
+    width: 50%;
+    border-right: 1px black solid;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
