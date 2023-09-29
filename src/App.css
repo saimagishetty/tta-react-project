@@ -4,3 +4,9 @@
     padding: 15px;
     box-sizing: border-box;
 }
+.App{
+    max-width: 1440px;
+    margin: auto;
+    padding: 15px;
+    box-sizing: border-box;
+}
